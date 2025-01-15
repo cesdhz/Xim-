@@ -20,8 +20,8 @@ Luego nos devolvera el token:
 "user": 
   {"website": "http://juanlopezdev.github.io",
   "id": "2967187836", 
-  "full_name": "Juan Lopez",
-  "username": "juanlopez.developer", 
+  "full_name": "Xime Sánchez"
+  "username": "xime_nietot", 
   "profile_picture": "https://scontent.cdninstagram.com/t51.2885-19/s150x150/13151160_483068871883349_931594696_a.jpg", 
   "bio": "Web Developer \u0026 DotaLover :)"
   }
